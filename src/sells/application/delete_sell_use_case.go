@@ -1,6 +1,6 @@
 package application
 
-import "nombre-del-proyecto/src/sells/domain"
+import "api-hexagonal/src/sells/domain"
 
 type DeleteSellUseCase struct {
 	db domain.ISell

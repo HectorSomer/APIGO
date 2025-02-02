@@ -1,8 +1,8 @@
 package application
 
 import (
-	"nombre-del-proyecto/src/sells/domain"
-	"nombre-del-proyecto/src/sells/domain/entities"
+	"api-hexagonal/src/sells/domain"
+	"api-hexagonal/src/sells/domain/entities"
 	"fmt"
 )
 

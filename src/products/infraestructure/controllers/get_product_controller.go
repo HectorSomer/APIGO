@@ -1,7 +1,7 @@
 package controllers
 
 import (
-	"nombre-del-proyecto/src/products/application"
+	"api-hexagonal/src/products/application"
      "fmt"
 	 "net/http"
 	"github.com/gin-gonic/gin"

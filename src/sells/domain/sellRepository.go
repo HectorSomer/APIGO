@@ -1,7 +1,7 @@
 package domain
 
 import (
-	"nombre-del-proyecto/src/sells/domain/entities"
+	"api-hexagonal/src/sells/domain/entities"
 )
 
 type ISell interface {

@@ -3,8 +3,8 @@ package infraestructure
 import (
 	"fmt"
 	"log"
-	core "nombre-del-proyecto/src/config"
-	"nombre-del-proyecto/src/products/domain/entities"
+	core "api-hexagonal/src/config"
+	"api-hexagonal/src/products/domain/entities"
 
 	_ "github.com/go-sql-driver/mysql"
 	// el _ sirve para aquellas importaciones que no van a ser usadas.

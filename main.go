@@ -1,8 +1,8 @@
 package main
 
 import (
-	"nombre-del-proyecto/src/products/infraestructure"
-	"nombre-del-proyecto/src/sells/infraestructure/dependencies"
+	"api-hexagonal/src/products/infraestructure"
+	"api-hexagonal/src/sells/infraestructure/dependencies"
 	"github.com/gin-gonic/gin"
 	"log"
 	"github.com/joho/godotenv"

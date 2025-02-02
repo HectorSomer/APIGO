@@ -1,7 +1,7 @@
 package routers
 
 import (
-	"nombre-del-proyecto/src/sells/infraestructure/controllers"
+	"api-hexagonal/src/sells/infraestructure/controllers"
 
 	"github.com/gin-gonic/gin"
 )

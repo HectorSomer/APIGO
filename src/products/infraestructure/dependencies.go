@@ -2,10 +2,10 @@ package infraestructure
 
 import (
 	"fmt"
-	"nombre-del-proyecto/src/products/application"
+	"api-hexagonal/src/products/application"
 
-	"nombre-del-proyecto/src/products/infraestructure/controllers"
-	"nombre-del-proyecto/src/products/infraestructure/routers"
+	"api-hexagonal/src/products/infraestructure/controllers"
+	"api-hexagonal/src/products/infraestructure/routers"
 
 	"github.com/gin-gonic/gin"
 )

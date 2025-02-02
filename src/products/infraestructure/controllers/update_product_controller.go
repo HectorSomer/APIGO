@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"nombre-del-proyecto/src/products/application"
-	"nombre-del-proyecto/src/products/domain/entities"
+	"api-hexagonal/src/products/application"
+	"api-hexagonal/src/products/domain/entities"
     "net/http"
 	"github.com/gin-gonic/gin"
 	"strconv"

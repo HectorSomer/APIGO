@@ -2,10 +2,10 @@ package dependencies
 
 import (
 	"fmt"
-	"nombre-del-proyecto/src/sells/infraestructure"
-	"nombre-del-proyecto/src/sells/application"
-	"nombre-del-proyecto/src/sells/infraestructure/controllers"
-	"nombre-del-proyecto/src/sells/infraestructure/routers"
+	"api-hexagonal/src/sells/infraestructure"
+	"api-hexagonal/src/sells/application"
+	"api-hexagonal/src/sells/infraestructure/controllers"
+	"api-hexagonal/src/sells/infraestructure/routers"
 
 	"github.com/gin-gonic/gin"
 )

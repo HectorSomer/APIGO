@@ -1,7 +1,7 @@
 package domain
 
 import (
-	"nombre-del-proyecto/src/products/domain/entities"
+	"api-hexagonal/src/products/domain/entities"
 )
 
 type IProduct interface {

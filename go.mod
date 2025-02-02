@@ -1,4 +1,4 @@
-module nombre-del-proyecto
+module api-hexagonal
 
 go 1.23.4
 

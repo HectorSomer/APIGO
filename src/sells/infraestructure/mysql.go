@@ -3,8 +3,8 @@ package infraestructure
 import (
 	"fmt"
 	"log"
-	core "nombre-del-proyecto/src/config"
-	"nombre-del-proyecto/src/sells/domain/entities"
+	core "api-hexagonal/src/config"
+	"api-hexagonal/src/sells/domain/entities"
 )
 
 type MySQL struct {

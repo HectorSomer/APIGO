@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 	"net/http"
-	"nombre-del-proyecto/src/products/application"
+	"api-hexagonal/src/products/application"
 	"strconv"
 
 	"github.com/gin-gonic/gin"
